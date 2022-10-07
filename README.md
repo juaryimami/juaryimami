@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXou-WGMMIeL4YFaG9aZzPqilLya6Pl34-Knxp5xEQow&s)
+![MasterHead](https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)
 <h1 align="center">Hi 👋, I'm Juhar Yimer</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
